@@ -106,7 +106,6 @@ public class LoggedInView extends JPanel implements PropertyChangeListener {
 
                         this.logoutController.execute(currentStateLogOut.getUsername());
 
-                        )
                     }
                 }
         );
